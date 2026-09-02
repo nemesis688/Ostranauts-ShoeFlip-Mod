@@ -1,0 +1,50 @@
+[
+    {
+        "strName" : "OutfitShoeSneaker01R",
+        "strNameFriendly" : "Shoe: Sneaker (Right)",
+        "strDesc" : "A retro shoe with laces more for show than function.",
+        "strImg"  : "ItmSneaker01R",
+        "strImgNorm"  : "ItmSneaker01Rn",
+        "strPortraitImg"  : "paperdoll/clothing/portSneaker01R",
+        "strCOBase"    : "ItmShoe01R",
+        "strCondLoot"    : "CNDOLOutfitShoeSneaker01R",
+        "mapSlotEffects" : [
+            "shoeR","BodyShoeSneaker01R",
+            "shoeL","BodyShoeSneaker01LWrong",
+            "heldL","HeldItmDefaultL",
+            "heldR","HeldItmDefaultR"
+        ]
+    },
+	{
+        "strName" : "OutfitShoeSneaker02R",
+        "strNameFriendly" : "Shoe: Sneaker (Right)",
+        "strDesc" : "A retro shoe with laces more for show than function.",
+        "strImg"  : "ItmSneaker02R",
+        "strImgNorm"  : "ItmSneaker01Rn",
+        "strPortraitImg"  : "paperdoll/clothing/portSneaker02R",
+        "strCOBase"    : "ItmShoe01R",
+        "strCondLoot"    : "CNDOLOutfitShoeSneaker02R",
+        "mapSlotEffects" : [
+            "shoeR","BodyShoeSneaker02R",
+            "shoeL","BodyShoeSneaker02LWrong",
+            "heldL","HeldItmDefaultL",
+            "heldR","HeldItmDefaultR"
+        ]
+    },
+    {
+        "strName" : "OutfitShoeSneaker03R",
+        "strNameFriendly" : "Shoe: Sneaker (Right)",
+        "strDesc" : "A retro shoe with laces more for show than function.",
+        "strImg"  : "ItmSneaker03R",
+        "strImgNorm"  : "ItmSneaker01Rn",
+        "strPortraitImg"  : "paperdoll/clothing/portSneaker03R",
+        "strCOBase"    : "ItmShoe01R",
+        "strCondLoot"    : "CNDOLOutfitShoeSneaker03R",
+        "mapSlotEffects" : [
+            "shoeR","BodyShoeSneaker03R",
+            "shoeL","BodyShoeSneaker03LWrong",
+            "heldL","HeldItmDefaultL",
+            "heldR","HeldItmDefaultR"
+        ]
+    }
+]

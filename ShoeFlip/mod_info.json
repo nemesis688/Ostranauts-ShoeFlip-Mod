@@ -1,0 +1,11 @@
+[
+  {
+    "strName": "Shoe Flip",
+    "strAuthor": "Fohcs",
+    "strModURL": "https://github.com/nemesis688/Ostranauts-BespokeContainers-Mod",
+    "strGameVersion": "1.0.0.17",
+    "strModVersion": "0.1",
+	"requiredAPIs": ["FFU_BR_Core>=0.6"],
+    "strNotes": "Flips default orientation of right shoe sprite when they are on the ground or in a container to face the other direction."
+  }
+]
